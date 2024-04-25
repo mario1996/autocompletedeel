@@ -1,0 +1,10 @@
+.autocompleteItem > button {
+  background-color: white;
+  border: 0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.autocompleteItem > button:hover {
+  background-color: lightgray;
+}
